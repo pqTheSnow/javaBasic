@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JSONObject">
+    <CLASSES>
+      <root url="file://D:/code/JAR/JSONObject" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/code/JAR/JSONObject" recursive="false" />
+  </library>
+</component>
