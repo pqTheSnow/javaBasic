@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaBasic.iml" filepath="$PROJECT_DIR$/javaBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi_thread/multi_thread.iml" filepath="$PROJECT_DIR$/multi_thread/multi_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_test/spring_test.iml" filepath="$PROJECT_DIR$/spring_test/spring_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/wechat/wechat.iml" filepath="$PROJECT_DIR$/wechat/wechat.iml" />
     </modules>
   </component>

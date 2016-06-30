@@ -2,6 +2,7 @@
   <library name="JSONObject">
     <CLASSES>
       <root url="file://D:/code/JAR/JSONObject" />
+      <root url="jar://D:/code/JAR/dom4j.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
